@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yuvalmaliniak
-- 👀 I’m interested in programming and with DevOps tools. 
-- 🌱 I’m currently a system administrator and a 2nd year Computer Science student.
-- Programming languages: Python, Java, C#, C.
+- 👀 I’m interested in programming and DevOps tools. 
+- 🌱 I’m currently a 2nd year Computer Science student and a system administrator.
+- Programming languages: Python, Java, C#, C, C++.
+- DB knowledge: SQL, MongoDB.
+- DevOps tools: Docker, Containers, CI/CD pipelines using GitHub Actions.
 - Scripting languages: Python, PowerShell, Bash.
-- Specialized in AWS with a couple of AWS certificates, LDAP and networking protocols , managing Win + Linux servers, IT tools such as Okta and Azure.  
-- 📫 You can reach me in the following LinkedIn profile: https://www.linkedin.com/in/yuval-maliniak
+- Specialized in AWS with a couple of AWS certificates, LDAP and networking protocols , managing Linux and Windows servers, IT tools such as Okta and Azure.  
+- 📫 Feel free to reach out in the following LinkedIn profile: https://www.linkedin.com/in/yuval-maliniak
